@@ -1,1 +1,1 @@
-# Generative_Modeling_Case-Study
+# Generative_Modelling_Case-Study
